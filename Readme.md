@@ -13,9 +13,7 @@ _Built using [NextJS](https://nextjs.org/) and [Sanity.io](https://sanity.io/)_
 ## Customizing
 
 1. Create a schema for your new "content block" type.
-
-- For example, a quicklinks section with an array of page references
-
+   _For example, a quicklinks section with an array of page references_
 2. Create a react component to display the data in that schema
 3. Add it as an option in the body array in `page` schema
 4. Add it to the switch statement in `src/components/ContentBlock`
