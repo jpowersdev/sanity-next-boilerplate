@@ -13,7 +13,7 @@
     "@sanity/client": "^0.147.3",
     "@sanity/image-url": "^0.140.17",
     "groq": "^0.147.8",
-    "next": "9.2.0",
+    "next": "9.3.2",
     "react": "16.12.0",
     "react-dom": "16.12.0",
     "styled-components": "^5.0.0"
